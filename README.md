@@ -13,6 +13,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabriel110&show_icons=true&count_private=true" alt="gabrielcorreia" />
