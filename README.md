@@ -10,7 +10,7 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
  <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40" />
- <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" alt="c" width="40" height="40" />
  <img src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
 </p>
