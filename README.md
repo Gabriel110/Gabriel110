@@ -3,7 +3,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Gabriel110" alt="gabrielcorreia" /></p>
 
-- Atualmente estou aprendendo **ReactNative, ReactJS, Python**
+- Atualmente estou aprendendo **ReactNative, ReactJS, Java**
 
 <p align="left">
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
