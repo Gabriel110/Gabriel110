@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá, eu sou Gabriel Correia da Silva </h1>
-<h3 align = "center">Estudante de Sistemas de Informação.</h3>
+<h3 align = "center">Graduado em Sistemas de Informação pelo UNIPAM. Cursando Engenharia de Software pela PUC MINAS</h3>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Gabriel110" alt="gabrielcorreia" /></p>
 
