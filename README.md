@@ -17,6 +17,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="kotlin" width="40" height="40" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabriel110&show_icons=true&count_private=true" alt="gabrielcorreia" />
